@@ -1,1 +1,3 @@
-.vscode
+.vscode/
+tutorial/__pycache__
+db.sqlite3
